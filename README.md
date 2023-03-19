@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/cbsag210" target="blank"><img src="https://img.shields.io/twitter/follow/cbsag210?logo=twitter&style=for-the-badge" alt="cbsag210" /></a> </p>
 
-- 🔭 I’m currently working on **Creating a Backend for E-Commerce Site**
+- 🔭 I’m currently working as a **Solution Developer for Procurement Cloud Copmany**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Machine Learning and Deep Learning Through PyTorch**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Full Stack**
 
