@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ganesh Chandrasekar</h1>
-<h3 align="center">👩‍💻 Graduate Student @ Concordia, Montreal Master's student in Computer Science at Concordia University, Montreal. Passionate about NLP and Bioinformatics. Currently exploring the intersection of language processing and biological data. Eager to connect and collaborate! 🚀</h3>
+<h3 align="center">👩‍💻 Graduate Student @ Concordia University, Montreal. Passionate about NLP and Bioinformatics. Currently exploring the intersection of language processing and biological data. Eager to connect and collaborate! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cbsag&label=Profile%20views&color=0e75b6&style=flat" alt="cbsag" /> </p>
 
