@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ganesh Chandrasekar</h1>
-<h3 align="center">Computer Science, Master's Thesis Student</h3>
+<h3 align="center">👩‍💻 Graduate Student @ Concordia, Montreal Master's student in Computer Science at Concordia University, Montreal. Passionate about NLP and Bioinformatics. Currently exploring the intersection of language processing and biological data. Eager to connect and collaborate! 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cbsag&label=Profile%20views&color=0e75b6&style=flat" alt="cbsag" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/cbsag210" target="blank"><img src="https://img.shields.io/twitter/follow/cbsag210?logo=twitter&style=for-the-badge" alt="cbsag210" /></a> </p>
 
-- 🔭 I’m currently working as a **Research Assistant at CLAC Lab Concordia University**
+- 🔭 I’m currently working on **Research Assistant at Computational Linguistics at Concordia (CLAC)**
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning Through PyTorch**
+- 🌱 I’m currently learning **Natural Language Processing**
 
-- 👯 I’m looking to collaborate on **Machine Learning and Natural Language Processing**
+- 👯 I’m looking to collaborate on **Legacy NLP and Info Retrieval Algorithms**
 
-- 💬 Ask me about **Bioinformatics,Machine Learning and NLP**
+- 💬 Ask me about **NLP, Information Retrieval, Bioinformatics and Machine Learning**
 
 - 📫 How to reach me **cb.ganesh666@gmail.com**
 
