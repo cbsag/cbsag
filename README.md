@@ -1,39 +1,100 @@
-<h1 align="center">Hello 👋, I'm Ganesh Chandrasekar</h1>
-<h3 align="center">👩‍💻 Graduate Student @ Concordia University, Montreal. Passionate about NLP and Bioinformatics. Currently exploring the intersection of language processing and biological data. Eager to connect and collaborate! 🚀</h3>
+<h1 align="center">Hi, I'm Ganesh Chandrasekar 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cbsag&label=Profile%20views&color=0e75b6&style=flat" alt="cbsag" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cbsag" alt="cbsag" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/cbsag210" target="blank"><img src="https://img.shields.io/twitter/follow/cbsag210?logo=twitter&style=for-the-badge" alt="cbsag210" /></a> </p>
-
-- 🔭 I’m currently working on **Research Assistant at Computational Linguistics at Concordia (CLAC)**
-
-- 🌱 I’m currently learning **Natural Language Processing**
-
-- 👯 I’m looking to collaborate on **Legacy NLP and Info Retrieval Algorithms**
-
-- 💬 Ask me about **NLP, Information Retrieval, Bioinformatics and Machine Learning**
-
-- 📫 How to reach me **cb.ganesh666@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/cbsag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cbsag" height="30" width="40" /></a>
-<a href="https://twitter.com/cbsag210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cbsag210" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ganesh-chandrasekar-a168a71b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ganesh-chandrasekar-a168a71b8" height="30" width="40" /></a>
-<a href="https://instagram.com/cbsag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cbsag" height="30" width="40" /></a>
+<p align="center">
+Master's student in Computer Science at Concordia University, working on GenAI, RAG, NLP, information retrieval, and evidence-grounded AI systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+Open to full-time roles in AI/ML, GenAI, Data & AI, and applied AI systems.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cbsag&show_icons=true&locale=en&layout=compact" alt="cbsag" /></p>
+<p align="center">
+<a href="https://portfolio-cbsag-2026.vercel.app/">Portfolio</a> ·
+<a href="https://linkedin.com/in/ganesh-chandrasekar-a168a71b8">LinkedIn</a> ·
+<a href="mailto:cb.ganesh666@gmail.com">Email</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cbsag&show_icons=true&locale=en" alt="cbsag" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cbsag&" alt="cbsag" /></p>
+## About me
+
+I build AI systems that are useful, grounded, traceable, and evaluated.
+
+My work combines research thinking with hands-on software development, especially around retrieval-augmented generation, biomedical NLP, information retrieval, and LLM evaluation. I am interested in AI that solves real problems, not just flashy demos.
+
+I am currently completing my Master's thesis at Concordia University and looking for full-time opportunities where I can contribute to GenAI systems, RAG pipelines, AI platforms, automation, and responsible AI adoption.
+
+---
+
+## What I work on
+
+- **Retrieval-Augmented Generation:** building pipelines that retrieve evidence, rerank documents, and generate grounded answers
+- **Biomedical NLP:** working with medical and scientific text where reliability, evidence, and evaluation matter
+- **LLM Evaluation:** analyzing generated answers for correctness, completeness, citation support, and failure cases
+- **Applied AI Systems:** connecting AI models with workflows, APIs, automation, and user-facing systems
+
+---
+
+## Background
+
+- Research Assistant at **CLaC Lab, Concordia University**
+- Master's thesis on **evidence-grounded question answering and RAG**
+- Former Solution Developer with experience in **APIs, workflow automation, Docker, cloud deployment, and full-stack development**
+- Teaching Assistant experience in Computer Science
+
+---
+
+## Selected project areas
+
+### Evidence-grounded medical QA
+
+Built RAG pipelines for biomedical question answering using retrieval, reranking, evidence selection, LLM generation, and citation control.
+
+### LLM evaluation and analysis
+
+Worked on evaluating generated answers using correctness, completeness, support, citation behavior, and error analysis.
+
+### Workflow and software systems
+
+Built practical software solutions across APIs, backend/frontend development, workflow automation, Docker-based development, and cloud deployment.
+
+---
+
+## Current focus
+
+GenAI · RAG · NLP · Information Retrieval · Biomedical AI · LLM Evaluation · Reranking · Citation Control · AI Agents · Responsible AI · Workflow Automation · Applied AI Systems
+
+---
+
+## Tech stack
+
+**AI / ML / NLP**  
+Python · PyTorch · Hugging Face · scikit-learn · RAG · LLMs · NLP · Information Retrieval · Reranking · Model Evaluation
+
+**Data / Research**  
+Pandas · NumPy · PubMed Retrieval · Biomedical NLP · Experiment Design · Error Analysis
+
+**Software Engineering**  
+APIs · Docker · Git · JavaScript · Node.js · SQL · MongoDB · Cloud Deployment · Workflow Automation
+
+---
+
+## Connect with me
+
+<p>
+<a href="https://portfolio-cbsag-2026.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/ganesh-chandrasekar-a168a71b8">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:cb.ganesh666@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=cbsag&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
