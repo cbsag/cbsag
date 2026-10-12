@@ -1,154 +1,105 @@
-<h1 align="center">Hi, I'm Ganesh Chandrasekar 👋</h1>
+<h1 align="center">Ganesh Chandrasekar</h1>
 
 <p align="center">
-  <strong>AI/ML Engineer · NLP Researcher · Software Developer</strong>
+  <a href="https://cbsag.me/">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&duration=2800&pause=900&color=14B8A6&center=true&vCenter=true&width=760&height=45&lines=AI%2FML+Engineer+%C2%B7+Researcher;Evidence-grounded+AI+systems;From+research+experiments+to+reliable+software"
+      alt="AI/ML Engineer and researcher building evidence-grounded AI systems"
+    />
+  </a>
 </p>
 
 <p align="center">
-  I research, build, and evaluate intelligent systems across machine learning, NLP, retrieval, generative AI, and software engineering.
+  I build AI applications and evaluate how well they work—from retrieval and generation to evidence grounding, APIs, and product delivery.
 </p>
 
 <p align="center">
-  Open to full-time opportunities in AI/ML Engineering, Applied AI, GenAI, NLP, and Data & AI.
+  <strong>Open to full-time AI/ML engineering opportunities.</strong>
 </p>
 
 <p align="center">
-  <a href="https://portfolio-cbsag-2026.vercel.app/"><strong>Portfolio</strong></a>
+  <a href="https://cbsag.me/"><strong>Portfolio</strong></a>
+  ·
+  <a href="https://bioevidence.cbsag.me/ask?mode=examples"><strong>BioEvidence</strong></a>
+  ·
+  <a href="https://cbsag.me/cv"><strong>CV</strong></a>
+  ·
+  <a href="https://scholar.google.com/citations?user=jNUELCoAAAAJ&hl=en"><strong>Google Scholar</strong></a>
   ·
   <a href="https://www.linkedin.com/in/cbsag/"><strong>LinkedIn</strong></a>
   ·
-  <a href="mailto:cb.ganesh666@gmail.com"><strong>Email</strong></a>
+  <a href="mailto:ganesh.cbsag@gmail.com"><strong>Email</strong></a>
 </p>
 
 ---
 
-## About me
+## About
 
-I am currently completing my Master's in Computer Science at Concordia University and working as a Research Assistant at the CLaC Lab.
+I'm an AI/ML engineer with a **Master of Computer Science from Concordia University** and a background in software development and biomedical NLP research.
 
-My work combines applied AI research with software engineering. I have built and evaluated systems for classification, sequence labeling, information extraction, information retrieval, retrieval-augmented generation, agentic workflows, knowledge graphs, and LLM evaluation.
+My graduate work at the CLaC Lab focused on evidence-grounded biomedical question answering: retrieving and reranking scientific evidence, generating answers, validating citations, and tracing failures to the right stage of the system. Before that, I worked as a Solution Developer on enterprise procurement workflows, APIs, automation, and cloud-based products.
 
-I approach problems by first understanding the domain, researching possible approaches, testing what makes sense, and evaluating the results rather than choosing a method simply because it is popular. I am especially interested in building AI systems that are useful, grounded, traceable, reliable, and safe.
+I care about systems that are useful, inspectable, and measured carefully—not just impressive in a demo.
 
-Before beginning my graduate research, I worked as a Solution Developer, building application features, APIs, workflow automation, and cloud-based solutions. This combination of research and engineering helps me move from an open-ended problem to a working and evaluated system.
+## Selected systems
 
----
+| Work | What I built | Explore |
+| --- | --- | --- |
+| **BioEvidence AI** | A full-stack biomedical QA application with inspectable retrieval, reranking, generation, and citation-validation stages. | [Live examples](https://bioevidence.cbsag.me/ask?mode=examples) · [Case study](https://cbsag.me/projects/bioevidence-ai) |
+| **TREC BioGen** | Sparse and dense RAG pipelines over **26.8 million PubMed documents**, with Qwen-based generation, reranking, and evidence-linked evaluation. | [Case study](https://cbsag.me/projects/trec-biogen) · [GitHub](https://github.com/cbsag/trec-biogen-taskb-viewer) |
+| **MedHop QA** | Agentic and non-agentic multi-hop QA systems using open-source LLMs and evidence retrieval. | [GitHub](https://github.com/cbsag/medhopqa-agentic-and-non-agentic-systems) |
+| **Biomedical negation detection** | BERT-family, CRF, hierarchical, and PPO approaches evaluated with per-label analysis under class imbalance. | [GitHub](https://github.com/cbsag/Biomedical-Negation-Detection) |
 
-## What I work on
+## Research
 
-- **Machine Learning and NLP**  
-  Transformer fine-tuning, classification, sequence labeling, named-entity recognition, information extraction, reinforcement learning, and error analysis
+My published master's thesis is **[Evidence-Grounded Biomedical Question Answering: Design, Analysis, and Evaluation](https://spectrum.library.concordia.ca/id/eprint/997873/)**.
 
-- **Generative AI and LLM Systems**  
-  RAG pipelines, agentic workflows, LLM evaluation, human and AI feedback loops, grounded generation, and citation reliability
+The work brings biomedical retrieval, reranking, language-model generation, citation validation, and stage-aware evaluation into one system view.
 
-- **Information Retrieval**  
-  Sparse and dense retrieval, BM25, vector search, cross-encoder reranking, evidence selection, and hybrid retrieval
+[Publications](https://cbsag.me/publications) · [Google Scholar](https://scholar.google.com/citations?user=jNUELCoAAAAJ&hl=en) · [Research profile](https://cbsag.me/research)
 
-- **Applied AI Engineering**  
-  APIs, workflow automation, model serving, GPU inference, Docker, cloud infrastructure, and user-facing analysis tools
+## How I work
 
-- **Knowledge Systems**  
-  Knowledge graphs, RDF, SPARQL, semantic retrieval, and hybrid structured-unstructured question answering
+- **Retrieve and verify evidence** — sparse and dense retrieval, reranking, evidence selection, RAG, and citation checks
+- **Train and evaluate models** — NLP experiments, per-label behavior, class imbalance, error analysis, and failure-mode inspection
+- **Ship the complete workflow** — model APIs, data, interfaces, authentication, deployment, and tools people can actually use
 
----
+<details>
+<summary><strong>Technical toolkit</strong></summary>
 
-## Selected work
+<br />
 
-### Evidence-Grounded RAG and LLM Evaluation
+- **AI/ML:** Python, PyTorch, Hugging Face, scikit-learn, Pandas, BERT, CRF, PPO
+- **Retrieval and LLM systems:** BM25, Pyserini, MedCPT, FAISS, cross-encoder reranking, RAG, vLLM
+- **Product engineering:** TypeScript, JavaScript, Next.js, React, Node.js, Flask, REST APIs, SQL, Supabase
+- **Infrastructure:** Docker, GCP, AWS, Slurm, GPU inference, Linux
+- **Knowledge systems:** RDF, SPARQL, knowledge graphs, hybrid retrieval
 
-Built and evaluated multiple sparse and dense retrieval pipelines over a 26.8-million-document scientific corpus using BM25, Pyserini, MedCPT, cross-encoder reranking, TF-IDF/MMR, and Qwen.
+</details>
 
-Developed evaluation workflows and dashboards for measuring retrieval quality, answer accuracy, evidence grounding, citation reliability, and system failure modes.
+## GitHub snapshot
 
-### Agentic and Multi-Hop Question Answering
-
-Developed agentic and non-agentic question-answering systems combining open-source LLMs with Wikipedia and scientific literature retrieval.
-
-Compared different workflow designs based on accuracy, evidence use, reliability, and operational complexity.
-
-### Transformer, CRF, and Reinforcement Learning Systems
-
-Fine-tuned BERT-based models for sequence-labeling tasks and developed CRF, hierarchical classification, and PPO-based approaches for handling structured prediction and class imbalance.
-
-### Classification and Evidence Extraction
-
-Built and evaluated systems for document-level classification and supporting-evidence extraction using open-source LLMs and transformer models.
-
-### Knowledge-Graph and Hybrid Retrieval
-
-Built a question-answering system combining RDF and SPARQL queries with vector retrieval to answer natural-language questions over structured and unstructured information.
-
-### Workflow and Software Engineering
-
-Developed application features, workflow automation, validation rules, approval processes, APIs, and cloud-based integrations for enterprise software products.
-
----
-
-## Research and publications
-
-My research has contributed to shared-task systems, evaluation workflows, practical analysis tools, and publications covering:
-
-- Evidence-constrained question answering
-- Agentic and non-agentic multi-hop systems
-- Biomedical NLP and information retrieval
-- Transformer and reinforcement-learning-based sequence labeling
-
-View my projects and publications on my  
-**[portfolio website](https://portfolio-cbsag-2026.vercel.app/)**.
-
----
-
-## Technical skills
-
-### AI, ML, and NLP
-
-`Python` · `PyTorch` · `Hugging Face Transformers` · `scikit-learn` · `Pandas` · `CRFsuite` · `Sequence Labeling` · `Named-Entity Recognition` · `Reinforcement Learning` · `PPO`
-
-### LLMs and Retrieval
-
-`RAG` · `LLM Evaluation` · `RLHF` · `RLAIF` · `LLM-as-a-Judge` · `Human-in-the-Loop Evaluation` · `BM25` · `Pyserini` · `Lucene` · `MedCPT` · `FAISS` · `Cross-Encoder Reranking` · `vLLM`
-
-### Software Engineering
-
-`JavaScript` · `Java` · `SQL` · `Node.js` · `NestJS` · `Flask` · `React` · `REST APIs` · `Git` · `Linux`
-
-### Cloud and Infrastructure
-
-`Google Cloud Platform` · `AWS` · `Docker` · `Slurm` · `GPU Inference` · `HPC`
-
-### Knowledge Systems
-
-`RDF` · `SPARQL` · `LangChain` · `Knowledge Graphs` · `Hybrid Retrieval`
-
----
-
-## Currently
-
-- Completing my Master's thesis in Computer Science
-- Building and evaluating applied AI and NLP systems
-- Exploring reliable agentic workflows and enterprise AI applications
-- Looking for full-time AI/ML, Applied AI, GenAI, NLP, and Data & AI opportunities
-
----
-
-## Connect with me
-
-<p align="left">
-  <a href="https://portfolio-cbsag-2026.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/cbsag/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:cb.ganesh666@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cbsag&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=5EEAD4&text_color=CBD5E1"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cbsag&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=0F766E&text_color=334155"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbsag&layout=compact&langs_count=6&hide_border=true"
+      alt="Most used languages across Ganesh's public repositories"
+    />
+  </picture>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbsag&layout=compact&hide_border=true" alt="Most Used Languages" />
+  <a href="https://cbsag.me/">cbsag.me</a>
+  ·
+  <a href="mailto:ganesh.cbsag@gmail.com">ganesh.cbsag@gmail.com</a>
 </p>
-
