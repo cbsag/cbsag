@@ -1,16 +1,26 @@
+<p align="center">
+  <a href="https://cbsag.me/">
+    <img src="./assets/G-brush-animated.svg" width="104" alt="Animated Ganesh brush logo" />
+  </a>
+</p>
+
 <h1 align="center">Ganesh Chandrasekar</h1>
 
 <p align="center">
   <a href="https://cbsag.me/">
     <img
-      src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&duration=2800&pause=900&color=14B8A6&center=true&vCenter=true&width=760&height=45&lines=AI%2FML+Engineer+%C2%B7+Researcher;Evidence-grounded+AI+systems;From+research+experiments+to+reliable+software"
-      alt="AI/ML Engineer and researcher building evidence-grounded AI systems"
+      src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=22&duration=2800&pause=900&color=14B8A6&center=true&vCenter=true&width=760&height=45&lines=AI%2FML+Engineer+%C2%B7+Researcher;Biomedical+NLP+%C2%B7+Retrieval+%C2%B7+RAG;Evaluation+%C2%B7+APIs+%C2%B7+Product+delivery"
+      alt="AI/ML Engineer and researcher working across biomedical NLP, retrieval, RAG, evaluation, APIs, and product delivery"
     />
   </a>
 </p>
 
 <p align="center">
-  I build AI applications and evaluate how well they work—from retrieval and generation to evidence grounding, APIs, and product delivery.
+  I build AI systems that retrieve scientific evidence, generate answers with citations, and show how each stage performs.
+</p>
+
+<p align="center">
+  My work combines biomedical NLP research, model evaluation, Python APIs, and full-stack applications.
 </p>
 
 <p align="center">
@@ -31,15 +41,24 @@
   <a href="mailto:ganesh.cbsag@gmail.com"><strong>Email</strong></a>
 </p>
 
----
+<p align="center">
+  <img src="./assets/gradient-line.svg" width="100%" height="6" alt="" />
+</p>
 
-## About
+## At a glance
 
-I'm an AI/ML engineer with a **Master of Computer Science from Concordia University** and a background in software development and biomedical NLP research.
+- **Master of Computer Science, Concordia University.** My graduate research focused on evidence-grounded biomedical question answering.
+- **Published thesis.** I studied retrieval, reranking, generation, citation validation, and stage-aware evaluation as one connected system.
+- **Research translated into a product.** BioEvidence turns those ideas into a working application with inspectable evidence and citations.
+- **Large-scale retrieval experience.** I evaluated sparse and dense RAG pipelines over 26.8 million PubMed documents.
+- **Software engineering background.** I have built enterprise workflows, APIs, automation, and cloud-based product features.
 
-My graduate work at the CLaC Lab focused on evidence-grounded biomedical question answering: retrieving and reranking scientific evidence, generating answers, validating citations, and tracing failures to the right stage of the system. Before that, I worked as a Solution Developer on enterprise procurement workflows, APIs, automation, and cloud-based products.
+## What I build
 
-I care about systems that are useful, inspectable, and measured carefully—not just impressive in a demo.
+- **Evidence-grounded AI:** systems that search biomedical sources, select useful passages, generate answers, and connect claims to citations
+- **Evaluation workflows:** tools that measure retrieval quality, answer accuracy, grounding, citation reliability, and failure modes separately
+- **Complete AI applications:** Python services, REST APIs, Next.js interfaces, authentication, data storage, deployment, and user-facing inspection tools
+- **NLP experiments:** classification, sequence labeling, information extraction, transformer fine-tuning, CRF models, and reinforcement-learning approaches
 
 ## Selected systems
 
@@ -49,6 +68,26 @@ I care about systems that are useful, inspectable, and measured carefully—not 
 | **TREC BioGen** | Sparse and dense RAG pipelines over **26.8 million PubMed documents**, with Qwen-based generation, reranking, and evidence-linked evaluation. | [Case study](https://cbsag.me/projects/trec-biogen) · [GitHub](https://github.com/cbsag/trec-biogen-taskb-viewer) |
 | **MedHop QA** | Agentic and non-agentic multi-hop QA systems using open-source LLMs and evidence retrieval. | [GitHub](https://github.com/cbsag/medhopqa-agentic-and-non-agentic-systems) |
 | **Biomedical negation detection** | BERT-family, CRF, hierarchical, and PPO approaches evaluated with per-label analysis under class imbalance. | [GitHub](https://github.com/cbsag/Biomedical-Negation-Detection) |
+
+## Experience
+
+### Research Assistant · CLaC Lab, Concordia University
+
+**September 2023 to August 2026**
+
+Built biomedical question-answering pipelines that retrieved and reranked evidence before generation. Evaluated whether answers were supported by their cited sources and developed tools for inspecting retrieval, answer quality, grounding, and citation behavior.
+
+### Solution Developer · OrangeScape Technologies
+
+**July 2022 to August 2023**
+
+Worked on Kissflow Procurement Cloud across purchasing, supplier management, approvals, and source-to-pay workflows. Built product features, APIs, validation rules, workflow automation, and cloud integrations.
+
+### Software Engineering Intern · Basik Marketing
+
+**May 2022 to July 2022**
+
+Built a Python and Node.js broadcast overlay that consumed live match data and updated scores, counters, and on-screen elements during esports broadcasts.
 
 ## Research
 
@@ -60,9 +99,9 @@ The work brings biomedical retrieval, reranking, language-model generation, cita
 
 ## How I work
 
-- **Retrieve and verify evidence** — sparse and dense retrieval, reranking, evidence selection, RAG, and citation checks
-- **Train and evaluate models** — NLP experiments, per-label behavior, class imbalance, error analysis, and failure-mode inspection
-- **Ship the complete workflow** — model APIs, data, interfaces, authentication, deployment, and tools people can actually use
+- **Retrieve and verify evidence:** sparse and dense retrieval, reranking, evidence selection, RAG, and citation checks
+- **Train and evaluate models:** NLP experiments, per-label behavior, class imbalance, error analysis, and failure-mode inspection
+- **Ship the complete workflow:** model APIs, data, interfaces, authentication, deployment, and tools people can actually use
 
 <details>
 <summary><strong>Technical toolkit</strong></summary>
